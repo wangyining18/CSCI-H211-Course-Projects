@@ -5,14 +5,13 @@ This repo includes several course projects I have done in CSCI-H211 Introduction
 
 #### Space-Invader
 
-![space-invader-screenshot](space-invader/space-invader-screenshot-1.png)
-
-
+<img src="space-invader/space-invader-screenshot-2.png" alt="space-invader-screenshot" width="200" height="200"/>
 
 #### Snake
 
-![snake-screenshot](snake/snake-screenshot-1.png)
+<img src="snake/snake-screenshot-1.png" alt="snake-screenshot" width="200" height="200"/>
 
 #### Bubble-Bobble
 
-![bubble-bobble-screenshot](bubble-bobble/bubble-bobble-screenshot-1.png)
+
+<img src="bubble-bobble/bubble-bobble-screenshot-1.png" alt="bubble-bobble-screenshot" width="200" height="200"/>
